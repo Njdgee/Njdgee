@@ -1,16 +1,20 @@
-### Hi there 👋
+# Hi there! 👋 I'm Njdge
 
-<!--
-**Njdgee/Njdgee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- 🎓 I'm a 16-year-old high school student.
+- 💻 I specialize in writing Java programming language.
+- 🛠️ I focus on developing Spigot plugins for Minecraft.
 
-Here are some ideas to get you started:
+## Github Stats
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Top Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+## Profile Views
+![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blue)
+
+## Code Rate
+- Total Commits: XXX
+- Average Commits Per Week: XX
+- Favorite IDE: IntelliJ IDEA
