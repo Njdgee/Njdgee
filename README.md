@@ -1,9 +1,9 @@
 # Hi there! 👋 I'm Njdge
 
 ## About Me
-- 🎓 I'm a 16-year-old high school student.
+- 🎓 Boy / 16y / Hshs 26th
 - 💻 I specialize in writing Java programming language.
-- 🛠️ I focus on developing Spigot plugins for Minecraft.
+- 
 
 ## Github Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Njdgee&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
