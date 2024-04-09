@@ -13,6 +13,7 @@
 - [DogeStaff](https://github.com/Njdgee/DogeStaff) - A Staff Plugin of NINJADOGE Network
 - [FastBuilder](https://github.com/Njdgee/FastBuilder) - A FastBuilder plugin alike MCPlayHD && SpeedCubing.top
 - [RankedSkywars](https://github.com/Njdgee/RankedSkywars) - A RankedSkywars plugin alike Hypixel (@yudong-0222 Contribute more than mine)
+- [DeathMatch](https://github.com/Njdgee/DeathMatch) - A DeathMatch plugin alike Valorant [Video](https://www.youtube.com/watch?v=4VY3bkgJFX8)
 
 ## Github Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Njdgee&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
