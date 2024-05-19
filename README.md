@@ -7,6 +7,7 @@
 ## Social Media
 - Discord: [NINJADOGE Network](dsc.gg/ninja-network)
 - Youtube: [Njdge](https://www.youtube.com/@Njdge)
+- Website: [Profile](https://ninjadoge.me)
 
 ## My Repositories
 - [BedFight](https://github.com/Njdgee/BedFight) - NINJADOGE Network 2024 BedFight Championship Plugin
