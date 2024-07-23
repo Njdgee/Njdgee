@@ -12,7 +12,7 @@
 ## My Repositories
 - [BedFight](https://github.com/Njdgee/BedFight) - NINJADOGE Network 2024 BedFight Championship Plugin
 - [DogeStaff](https://github.com/Njdgee/DogeStaff) - A Staff Plugin of NINJADOGE Network
-- [FastBuilder](https://github.com/Njdgee/FastBuilder) - A FastBuilder plugin alike MCPlayHD && SpeedCubing.top
+- [FastBuilder](https://github.com/Njdgee/FastBuilder) - A FastBuilder plugin alike MCPlayHD
 - [RankedSkywars](https://github.com/Njdgee/RankedSkywars) - A RankedSkywars plugin alike Hypixel (@yudong-0222 Contribute more than mine)
 - [DeathMatch](https://github.com/Njdgee/DeathMatch) - A DeathMatch plugin alike Valorant [Video](https://www.youtube.com/watch?v=4VY3bkgJFX8)
 
