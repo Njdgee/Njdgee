@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm Njdge
 
 ## About Me
-- 🎓 He / 16y / HsHs 27th / HSPC 5th
+- 🎓 He / 16y / HsPC 5th
 - 💻 Mainly written in Java programming language, mostly Minecraft 1.8.9 plugins.
 
 ## Social Media
