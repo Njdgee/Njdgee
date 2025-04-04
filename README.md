@@ -2,7 +2,7 @@
 
 ## About Me
 - 🎓 He / 16y / HSPC 5th
-- 💻 Mainly written in Java programming language, mostly Minecraft 1.8.9 plugins.
+- Mainly written in Java programming language, mostly Minecraft 1.8.9 plugins.
 
 ## Social Media
 - Discord: [NINJADOGE Network](dsc.gg/ninja-network)
@@ -17,9 +17,6 @@
 - [FastBuilder](https://github.com/Njdgee/FastBuilder) - A FastBuilder plugin alike MCPlayHD
 - [RankedSkywars](https://github.com/Njdgee/RankedSkywars) - A RankedSkywars plugin alike Hypixel (@yudong-0222 Contribute more than mine)
 - [DeathMatch](https://github.com/Njdgee/DeathMatch) - A DeathMatch plugin alike Valorant [Video](https://www.youtube.com/watch?v=4VY3bkgJFX8)
-
-## Github Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Njdgee&show_icons=true&theme=vue-dark&hide_border=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Top Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Njdgee&layout=compact&theme=vue-dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
