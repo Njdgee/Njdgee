@@ -22,7 +22,7 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Njdgee&show_icons=true&theme=vue-dark&hide_border=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Top Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Njdgee&layout=compact&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Njdgee&layout=compact&theme=vue-dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Profile Views
 ![Profile Views](https://komarev.com/ghpvc/?username=Njdgee&color=green)
