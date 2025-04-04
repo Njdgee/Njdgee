@@ -20,6 +20,11 @@
 
 ## Top Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Njdgee&layout=compact&theme=vue-dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,cpp,linux,idea,latex,mysql,mongodb" />
+  </a>
+</p>
 
 ## Profile Views
 ![Profile Views](https://komarev.com/ghpvc/?username=Njdgee&color=green)
