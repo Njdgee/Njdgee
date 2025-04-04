@@ -25,5 +25,5 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Njdgee&layout=compact&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Profile Views
-![Profile Views](https://komarev.com/ghpvc/?username=Njdgee&color=white)
+![Profile Views](https://komarev.com/ghpvc/?username=Njdgee&color=black)
 
