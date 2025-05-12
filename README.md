@@ -11,7 +11,7 @@ I'm Njdge (he/him), a high school student from Taiwan who loves coding. I specia
     <li><a href="https://github.com/Njdgee/BedFight">BedFight</a> - NINJADOGE Network 2024 BedFight Championship Plugin</li>
     <li><a href="https://github.com/Njdgee/Sapphire">Sapphire</a> - A core plugin of NINJADOGE Network</li>
     <li><a href="https://github.com/Njdgee/FastBuilder">FastBuilder</a> - A FastBuilder plugin alike MCPlayHD</li>
-    <li><a href="https://github.com/Njdgee/RankedSkywars">RankedSkywars</a> - A RankedSkywars plugin alike Hypixel (@yudong-0222 Contribute more than mine)</li>
+    <li><a href="https://github.com/Njdgee/RankedSkywars">RankedSkywars</a> - RankedSkywars plugin similar to Hypixel (@yudong-0222 Contribute more than mine)</li>
     <li><a href="https://github.com/Njdgee/DeathMatch">DeathMatch</a> - A DeathMatch plugin alike Valorant</li>
   </ul>
 </details>
